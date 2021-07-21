@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\tareaparaeljueves.dir/objects.a
+C:\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\tareaparaeljueves.dir/objects.a @CMakeFiles\tareaparaeljueves.dir\objects1.rsp
+C:\mingw-w64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\tareaparaeljueves.dir/objects.a -Wl,--no-whole-archive -o tareaparaeljueves.exe -Wl,--out-implib,libtareaparaeljueves.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tareaparaeljueves.dir\linklibs.rsp
